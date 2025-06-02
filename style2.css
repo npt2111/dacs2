@@ -1,0 +1,17 @@
+ul.list-cn{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+ul.list-cn li{
+    float: left;
+    margin: 5px;
+}
+ul.list-cn li a{
+    color: white;
+}
+.main{
+    border: 1px solid white;
+    width: 80%;
+    text-align: center;
+}
